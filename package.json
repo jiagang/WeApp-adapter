@@ -2,7 +2,7 @@
   "name": "weapp-adapter",
   "version": "1.0.0",
   "description": "微信小程序adapter",
-  "main": "src/index.js",
+  "main": "weapp-adapter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
